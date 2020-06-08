@@ -12,4 +12,4 @@ keywords = ["weather", "NOAA", "NWS"]
 serde = "1"
 serde_derive = "1"
 serde-xml-any = "0"
-reqwest = { version = "0.9", features = [ "rustls-tls" ], defailt-features = false }
+reqwest = { version = "0.9", features = [ "rustls-tls" ], default-features = false }
